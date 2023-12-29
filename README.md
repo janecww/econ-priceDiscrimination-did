@@ -1,4 +1,5 @@
-# Third-degree Price Discrimination by DiD Analysis 
+# Analytics in Managerial Economics
+## Third-degree Price Discrimination by DiD Analysis 
 Explore the concept of third-degree price discrimination and its application in the context of a software service company selling its product to both business and academic customers. The company is interested in maximizing its profits by implementing a pricing policy that considers the price elasticity of demand for each customer group. 
 
 To achieve this, the company conducted a price experiment in 2022, raising prices for certain customers and observing changes in the quantity demanded before and after the price adjustment. After they collected the data, they hired you to help analyze the collected data. The company collected data from 8 quarters (from the beginning of 2021 to the end of 2022). The dataset provided here includes information on customer group (either business or education) for each customer, each customer’s quarterly revenue, purchasing price in each quarter for each customer, and quantity demanded in each quarter for each customer. Each row in the dataset represents a customer’s above information. The dataset is transformed to perform the analysis.
